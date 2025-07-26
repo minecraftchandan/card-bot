@@ -1,6 +1,6 @@
 # 🎮 Card Bot
 
-A Discord bot for collecting, trading, and managing Pokémon cards with an economy system.
+A Discord bot for collecting, trading, and managing cards with an economy system.
 
 ## ✨ Features
 
@@ -13,4 +13,4 @@ A Discord bot for collecting, trading, and managing Pokémon cards with an econo
 
 ## ⚠️ Disclaimer
 
-This project is a fan-made creation and is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokémon Company.
+This project is a fan-made creation and is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokemon Company.
