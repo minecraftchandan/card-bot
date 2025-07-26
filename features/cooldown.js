@@ -6,8 +6,8 @@ const grabCooldowns = new Map();
 const globalCooldown = new Map(); // ✅ global spam protection
 
 // Cooldown durations (in milliseconds)
-const DROP_DURATION = 20 * 1000;  // 1 second
-const GRAB_DURATION = 10 * 1000;  // 1 second
+const DROP_DURATION = 6 * 60 * 1000;  // 6 minutes
+const GRAB_DURATION = 3 * 60 * 1000;  // 3 minutes
 const GLOBAL_COOLDOWN_TIME = 3 * 1000; // 3 seconds anti-spam
 
 /**
