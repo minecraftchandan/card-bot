@@ -26,7 +26,7 @@ module.exports = (client) => {
     const attachment = new AttachmentBuilder('./gif.gif', { name: 'gif.gif' });
     
     const row = new ActionRowBuilder().addComponents(
-      new ButtonBuilder().setURL('https://example.com').setLabel('Site').setStyle(ButtonStyle.Link),
+      new ButtonBuilder().setURL('https://notbot-nine.vercel.app/').setLabel('Site').setStyle(ButtonStyle.Link),
       new ButtonBuilder().setCustomId('hidden_tip').setLabel('Hidden Tip').setStyle(ButtonStyle.Secondary)
     );
     
